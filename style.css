@@ -6,8 +6,8 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @font-face {
 font-family: "Righteous";
-src: url("../fonts/BalooChettan-Regular.ttf");
-src: url("../fonts/BalooChettan-Regular.ttf");
+src: url("fonts/BalooChettan-Regular.ttf");
+src: url("fonts/BalooChettan-Regular.ttf");
 }
 /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
@@ -225,7 +225,7 @@ button {
 .header_section{
     width: 100%;
     float: left;
-    background-image: url(../images/header-bg.png);
+    background-image: url(header-bg.png);
     height: auto;
     background-size: 100%;
 }
@@ -294,7 +294,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner.jpg);
+    background-image: url(banner.jpg);
     height: auto;
     padding-bottom: 50px;
     background-size: 100%;
@@ -595,7 +595,7 @@ a:hover {
 .who_section{
     width: 100%;
     float: left;
-    background-image: url(../images/bg-1.jpg);
+    background-image: url(bg-1.jpg);
     height: auto;
     padding-bottom: 55px;
     background-size: 100%;
@@ -830,7 +830,7 @@ a:hover {
 .contact_section {
     width: 100%;
     float: left;
-    background-image: url(../images/contc.jpg);
+    background-image: url(contc.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
